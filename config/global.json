@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "ProjectCochran": {
+            "applicationId": "tlSnR67bsNy3tWf6dtsuycJ6Jen0OXsKa3tfYtH4", 
+            "masterKey": "N6mcUGT2uc5yRSc9Snd3uUdnuZgDIPdSzwLde1i1"
+        }, 
+        "_default": {
+            "link": "ProjectCochran"
+        }
+    }
+}
